@@ -28,11 +28,15 @@ Extra information on what each class in the project is doing is included in comm
 
 #Software Needed
  http://metrics.sourceforge.net - Metrics ----> Go to help on the task bar of eclipse, install new software and enter in the link provided, follow the step. Then right click on the project once installed, go to properties and when you click on Metrics, enable it.
+ 
  http://andrei.gmxhome.de/eclipse/ - JDepend -----> Do the same as above and follow the steps to install onto Eclipse. Ensure that you are using JUnit 4 so that testing can be done, @Test does not work on previous Junit versions
 
 #References 
 http://andrei.gmxhome.de/eclipse.html- JDepend ---> used to compiles the Junit test 'Test_AffEff'
+
 https://github.com/thomas995/Multi-Threaded-Cypher-Breaker/tree/master/OOP/dist - railfence.jar
+
 https://github.com/thomas995/DistSys-AsyncRMI_StringComparisonService - string-service.jar
+
 https://www.youtube.com/watch?v=agnblS47F18 - Java Reflection Help
 
